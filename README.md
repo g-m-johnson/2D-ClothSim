@@ -1,4 +1,4 @@
-# Cloth Simulation
+# 2D Cloth Simulation
 A simple 2D cloth simulation using [Sumo Digital's Playbuffer framework](https://github.com/sumo-digital-academy/playbuffer).
 
 Left click to drag cloth, right click to tear.
