@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PhysSimMain.cpp">
+    <ClCompile Include="ClothSimMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Cloth.cpp">
@@ -47,7 +47,7 @@
     <ClInclude Include="Mouse.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="PhysSimMain.h">
+    <ClInclude Include="ClothSimMain.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

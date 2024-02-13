@@ -1,7 +1,7 @@
 #define PLAY_IMPLEMENTATION
 #define PLAY_USING_GAMEOBJECT_MANAGER
 #include "Play.h"
-#include "PhysSimMain.h"
+#include "ClothSimMain.h"
 #include "Cloth.h"
 #include "Mouse.h"
 
